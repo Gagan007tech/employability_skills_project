@@ -68,7 +68,7 @@ The project is organized into the following packages:
 
 ## 8. Conclusion
 
-The Vehicle Service Center Management System provides a simple and organized solution for handling vehicle servicing activities. It combines job card management, service tracking, spare parts billing, and service history into a single Java application.
+The Vehicle Service Center Management System provides a simple and organized solution for handling vehicle servicing activities.It combines job card management, service tracking, spare parts billing, and service history into a single Java application.
 
 This project demonstrates the practical implementation of Core Java, Object-Oriented Programming, collections, and exception handling to solve a real-world management problem.
 
